@@ -6,15 +6,6 @@
 
 ### Full Stack Developer | Data Science & Machine Learning Enthusiast
 
-<!-- Human coding animation -->
-
-<!-- Small animated coding character -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Animated developer coding at a computer" />
-
-<br/>
-
-<!-- Social icons only -->
-
 <a href="https://github.com/IssaWick">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub"/>
 </a>
@@ -27,6 +18,12 @@
 
 ---
 
+<!-- About Me and Animation: Two Panels in One Row -->
+
+<table>
+<tr>
+<td width="60%" valign="middle">
+
 ## 👨‍💻 About Me
 
 * 🎓 Final-year Computer Science undergraduate at the **University of Sri Jayewardenepura, Sri Lanka**.
@@ -35,6 +32,19 @@
 * 🗄️ Interested in working with data, databases, and building useful data-driven systems.
 * 🌱 Currently learning **Data Engineering** by building a project step by step.
 * 🎯 Always learning, building projects, and improving my problem-solving skills.
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+### 💻 Coding Mode
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Animated developer coding at a computer"/>
+
+*Turning ideas into code, one project at a time.*
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -132,11 +142,13 @@ A learning project focused on building a structured data pipeline for banking-st
 </div>
 
 ---
+
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Isira Wickramaarachchi](https://www.linkedin.com/in/isira-wickramaarachchi-642918312/)
-- 🐙 GitHub: [@IssaWick](https://github.com/IssaWick)
-- 📧 Email: [ipiyasara@gmail.com](mailto:ipiyasara@gmail.com)
+* 💼 LinkedIn: [Isira Wickramaarachchi](https://www.linkedin.com/in/isira-wickramaarachchi-642918312/)
+* 🐙 GitHub: [@IssaWick](https://github.com/IssaWick)
+* 📧 Email: [ipiyasara@gmail.com](mailto:ipiyasara@gmail.com)
+
 ---
 
 <div align="center">
