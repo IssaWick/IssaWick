@@ -9,11 +9,7 @@
 <!-- Human coding animation -->
 
 <!-- Small animated coding character -->
-<img
-  src="https://media.giphy.com/media/13HgwGsUF4bGTu/giphy.gif"
-  width="150"
-  alt="Small animated developer coding"
-/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Animated developer coding at a computer" />
 
 <br/>
 
