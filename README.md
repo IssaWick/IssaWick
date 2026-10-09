@@ -132,20 +132,11 @@ A learning project focused on building a structured data pipeline for banking-st
 </div>
 
 ---
-
 ## 🤝 Connect With Me
 
-<p>
-  <a href="https://github.com/IssaWick">
-    <img src="https://img.shields.io/badge/GitHub-IssaWick-181717?style=flat&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/isira-wickramaarachchi-642918312/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
-
-📧 **Email:** [ipiyasara@gmail.com](mailto:ipiyasara@gmail.com)
-
+- 💼 LinkedIn: [Isira Wickramaarachchi](https://www.linkedin.com/in/isira-wickramaarachchi-642918312/)
+- 🐙 GitHub: [@IssaWick](https://github.com/IssaWick)
+- 📧 Email: [ipiyasara@gmail.com](mailto:ipiyasara@gmail.com)
 ---
 
 <div align="center">
