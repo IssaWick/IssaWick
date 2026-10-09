@@ -15,7 +15,7 @@
   <a href="https://github.com/IssaWick">
     <img src="https://img.shields.io/badge/GitHub-IssaWick-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
-  <a href="https://www.linkedin.com/in/isira-wickramaarachchi/">
+  <a href="www.linkedin.com/in/isira-wickramaarachchi-642918312">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
   </a>
 </p>
@@ -82,28 +82,28 @@ An HCI project that detects facial emotions and supports mood improvement throug
 
 **Technologies:** Python, DeepFace, OpenCV, PyQt5, Spotify API, ESP32
 
-[View MoodMate on GitHub](https://github.com/Kivindu02/Mood-Mate-HCI)
+[View MoodMate on GitHub](https://github.com/Kivindu02/Mood-Mate-HCI.git)
 
 ### 🧑‍🔧 SkillHive — Services Marketplace
 A full-stack marketplace concept connecting customers, service providers, and administrators.
 
 **Technologies:** React, Node.js, Express.js, MySQL, JWT, Docker, Jenkins
 
-[Add your SkillHive repository link here](https://github.com/IssaWick)
+[Add your SkillHive repository link here](https://github.com/IssaWick/SkillHiveWebApplication.git)
 
 ### 🧠 Brain Tumor / Glioma MRI Research
 Exploring machine learning and deep learning approaches for MRI-based brain tumour classification and glioma research.
 
 **Technologies:** Python, TensorFlow/Keras, Streamlit, medical imaging
 
-[Add your project repository link here](https://github.com/IssaWick)
+[Add your project repository link here](https://github.com/IssaWick/Brain-Tumor-Detection-App.git)
 
 ### ⚙️ Banking Transaction Data Engineering Pipeline
 A learning project focused on building a structured data pipeline for banking-style transaction data, validation, and reconciliation.
 
 **Technologies:** Python, SQL, PostgreSQL, Pandas, Docker, Apache Airflow, dbt
 
-[Add your data engineering repository link here](https://github.com/IssaWick)
+[Add your data engineering repository link here](https://github.com/IssaWick/banking-data-engineering-pipeline.git)
 
 ---
 
@@ -122,9 +122,9 @@ A learning project focused on building a structured data pipeline for banking-st
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Isira Wickramaarachchi](https://www.linkedin.com/in/isira-wickramaarachchi/)
+- 💼 LinkedIn: [Isira Wickramaarachchi](www.linkedin.com/in/isira-wickramaarachchi-642918312)
 - 🐙 GitHub: [@IssaWick](https://github.com/IssaWick)
-- 📧 Email: **Add your preferred professional email here**
+- 📧 Email: ipiyasara@gmail.com
 
 ---
 
